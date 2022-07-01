@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @luckyvirus
-- 👀 I’m interested in developer job..
-- 🌱 I’m currently learning react and python.
+- 👋 Hi, I’m @Lokendra Singh
+- 👀 I’m a React Dev Resource.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 reach me at luckysikarwar06@gmail.com..
-
-<!---
-luckyvirus/luckyvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 reach me at lokendrasikarwar06@gmail.com
